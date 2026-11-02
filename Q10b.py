@@ -65,3 +65,4 @@ for i  in range(len(B)):
 print("Transpose of B ")
 for row in B_trans:
     print(row)        
+print("hello")
